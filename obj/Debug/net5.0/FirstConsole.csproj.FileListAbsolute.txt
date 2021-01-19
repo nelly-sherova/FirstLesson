@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\bin\Debug\net5.0\FirstConsole.exe
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\bin\Debug\net5.0\FirstConsole.deps.json
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\bin\Debug\net5.0\FirstConsole.runtimeconfig.json
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\bin\Debug\net5.0\FirstConsole.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\bin\Debug\net5.0\FirstConsole.dll
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\bin\Debug\net5.0\ref\FirstConsole.dll
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\bin\Debug\net5.0\FirstConsole.pdb
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\FirstConsole.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\FirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\FirstConsole.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\FirstConsole.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\FirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\FirstConsole.dll
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\ref\FirstConsole.dll
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\FirstConsole.pdb
+C:\Users\ASUS\Desktop\Progects\sadkjl\FirstConsole\obj\Debug\net5.0\FirstConsole.genruntimeconfig.cache
